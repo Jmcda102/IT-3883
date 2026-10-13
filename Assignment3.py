@@ -1,7 +1,7 @@
 # Program Name: Assignment3.py
 # Student Name: Julien McDaniel
 # Assignment Number: Lab 3
-# Due Date: xx/xx/2026
+# Due Date: 10/12/2026
 # Purpose: This program opens a window that changes Miles per Gallon into
 #          Kilometers per Liter. The answer updates while the user types.
 #          Blank boxes and letters do not crash the program.
